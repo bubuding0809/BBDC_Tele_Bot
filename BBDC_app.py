@@ -32,8 +32,8 @@ logger = logging.getLogger(__name__)
 # Globals
 USERNAME, PASSWORD, RANGE, DATE, SLOT = range(5)
 credentials = {
-    'username' : '060C16091999',
-    'password' : '030918'
+    'username' : '',
+    'password' : ''
 }
 param = {
     'range' : 5,
